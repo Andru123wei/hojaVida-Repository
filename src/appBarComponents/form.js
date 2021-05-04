@@ -4,12 +4,10 @@ import PersonalInfo from '../formComponents/personalInfo'
 import AcademicInfo from '../formComponents/academicInfo'
 import LaboralExperience from '../formComponents/laboralExperience'
 import PersonalReference from '../formComponents/personalReference'
-import CloudUploadIcon from '@material-ui/icons/CloudUpload';
 import Hobbies from '../formComponents/hobbies'
-import { Button } from '@material-ui/core'
 import './form.css'
 
-<script type="text/javascript" src="../validation.js"></script>
+
 const useStyles = makeStyles((theme) => ({
     button: {
         margin: theme.spacing(1),
