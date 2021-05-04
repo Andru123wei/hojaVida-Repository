@@ -1,0 +1,32 @@
+.h1p{
+    color: white;
+    background: blue;
+    display: inline-block;
+    font-size: 2,5em;
+    margin-left: 16em;
+    padding:0.5em;
+    border-radius: 0.5em;
+    font-family: 'Pangolin', cursive;
+    color: #3b83bd;
+    background-color:#f3f3f3;
+    display: inline-block;
+    
+
+}
+
+.formInterface{
+    padding: 2em;
+    background-color: white;
+    
+}
+
+body{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+
